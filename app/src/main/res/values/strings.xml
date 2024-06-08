@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name" translatable="false">Story App</string>
+    <string name="signup">Register</string>
+    <string name="login">Login</string>
+    <string name="title_signup_page">Register to Story App</string>
+    <string name="title_login_page">Login to Story App</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="loading_msg">Loading</string>
+    <string name="error_email">Invalid format for email!</string>
+    <string name="error_email_empty">Email field empty!</string>
+    <string name="error_password">Password length is less than 8</string>
+    <string name="error_password_empty">Password field empty</string>
+    <string name="go_to_signup">Dont have account?</string>
+    <string name="title_home">Home</string>
+    <string name="title_settings">Settings</string>
+    <string name="change_language">Change Language</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logout_message">You are going to be logged out from the app</string>
+    <string name="greetings_message">Hello, %1$s!</string>
+    <string name="rv_description">Description</string>
+    <string name="rv_name">Name</string>
+    <string name="placeholder_name">name</string>
+    <string name="placeholder_detail">Description</string>
+    <string name="error_fetching">Error Fetching</string>
+    <string name="fab_message">Floating Action Button for adding story</string>
+    <string name="title_detail">Story Detail</string>
+    <string name="title_add">Add Story</string>
+    <string name="placeholder_add">What\'s your story?</string>
+    <string name="image_content_description">Image Fetched</string>
+    <string name="camera_button_content_description">Camera Button</string>
+    <string name="submit">Submit</string>
+    <string name="error_upload_story">Error uploading story</string>
+</resources>
